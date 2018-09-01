@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Frases do Dia</string>
+    <string name="texto_botao">Nova frase...</string>
+    <string name="texto_inicial_frasedia">Desistir, nunca. Render-se, jamais...</string>
+    <string-array name="frasesdodia">
+        <item>A verdadeira motivação vem do desenvolvimento pessoal e do reconhecimento.</item>
+        <item>A persistência é o caminho do êxito.</item>
+        <item>No meio da dificuldade encontra-se a oportunidade.</item>
+        <item>Motivação não é sinônimo de transformação, mas um passo em sua direção.</item>
+        <item>O que separa os bem-sucedidos dos outros é a persistência.</item>
+        <item>Oportunidades não surgem. É você que as cria.</item>
+        <item>Ninguém pode fazer você se sentir inferior sem o seu consentimento.</item>
+        <item>Não tenha medo de desistir do bom para perseguir o ótimo.</item>
+        <item>Comece de onde você está. Use o que você tiver. Faça o que você puder.</item>
+        <item>Você deve lutar mais de uma batalha para se tornar um vencedor.</item>
+    </string-array>
+</resources>
